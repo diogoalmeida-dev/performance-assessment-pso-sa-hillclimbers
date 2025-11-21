@@ -1,0 +1,156 @@
+Instância: uf20
+Kruskal – FITNESS
+stat: 121.17478789230165  p: 1.7695929782583272e-24
+Kruskal – EVALUATIONS
+stat: 130.70241133290403  p: 1.6885185333575285e-26
+
+
+Instância: uf100
+Kruskal – FITNESS
+stat: 153.196603614013  p: 2.785795675529489e-31
+Kruskal – EVALUATIONS
+stat: 159.1412147622057  p: 1.5086136562668938e-32
+
+
+Instância: uf250
+Kruskal – FITNESS
+stat: 150.83310733354324  p: 8.875230465268847e-31
+Kruskal – EVALUATIONS
+stat: 165.5148706247524  p: 6.604264940330294e-34
+
+
+Instância: uf20
+
+--- PSO vs outros ---
+
+PSO vs SA
+Fitness: U=150.0, p=9.828e-08
+Eval:    U=792.0, p=2.678e-07
+
+PSO vs NAHC
+Fitness: U=768.0, p=1.028e-06
+Eval:    U=900.0, p=1.262e-11
+
+PSO vs MS_NAHC
+Fitness: U=150.0, p=9.828e-08
+Eval:    U=836.0, p=6.330e-09
+
+PSO vs VNH
+Fitness: U=414.0, p=5.722e-01
+Eval:    U=794.0, p=2.279e-07
+
+PSO vs MS_VNH
+Fitness: U=150.0, p=9.828e-08
+Eval:    U=717.0, p=5.946e-05
+
+--- SA vs outros ---
+
+SA vs PSO
+Fitness: U=750.0, p=9.828e-08
+Eval:    U=108.0, p=2.678e-07
+
+SA vs NAHC
+Fitness: U=885.0, p=2.920e-12
+Eval:    U=900.0, p=3.001e-11
+
+SA vs MS_NAHC
+Fitness: U=450.0, p=1.000e+00
+Eval:    U=669.0, p=1.236e-03
+
+SA vs VNH
+Fitness: U=705.0, p=1.939e-06
+Eval:    U=496.0, p=5.011e-01
+
+SA vs MS_VNH
+Fitness: U=450.0, p=1.000e+00
+Eval:    U=145.0, p=6.736e-06
+Instância: uf100
+
+--- PSO vs outros ---
+
+PSO vs SA
+Fitness: U=0.0, p=6.079e-12
+Eval:    U=810.0, p=1.946e-09
+
+PSO vs NAHC
+Fitness: U=617.5, p=1.312e-02
+Eval:    U=900.0, p=1.211e-12
+
+PSO vs MS_NAHC
+Fitness: U=0.0, p=1.608e-11
+Eval:    U=450.0, p=1.000e+00
+
+PSO vs VNH
+Fitness: U=153.0, p=1.046e-05
+Eval:    U=900.0, p=1.212e-12
+
+PSO vs MS_VNH
+Fitness: U=14.0, p=8.089e-11
+Eval:    U=450.0, p=1.000e+00
+
+--- SA vs outros ---
+
+SA vs PSO
+Fitness: U=900.0, p=6.079e-12
+Eval:    U=90.0, p=1.946e-09
+
+SA vs NAHC
+Fitness: U=900.0, p=5.992e-12
+Eval:    U=900.0, p=2.952e-11
+
+SA vs MS_NAHC
+Fitness: U=897.0, p=4.381e-12
+Eval:    U=90.0, p=1.946e-09
+
+SA vs VNH
+Fitness: U=900.0, p=5.726e-12
+Eval:    U=310.0, p=3.907e-02
+
+SA vs MS_VNH
+Fitness: U=900.0, p=4.330e-12
+Eval:    U=90.0, p=1.946e-09
+Instância: uf250
+
+--- PSO vs outros ---
+
+PSO vs SA
+Fitness: U=0.0, p=1.207e-11
+Eval:    U=735.0, p=3.453e-07
+
+PSO vs NAHC
+Fitness: U=390.5, p=3.819e-01
+Eval:    U=900.0, p=1.211e-12
+
+PSO vs MS_NAHC
+Fitness: U=0.0, p=2.487e-11
+Eval:    U=450.0, p=1.000e+00
+
+PSO vs VNH
+Fitness: U=5.0, p=4.601e-11
+Eval:    U=0.0, p=1.212e-12
+
+PSO vs MS_VNH
+Fitness: U=11.5, p=8.765e-11
+Eval:    U=450.0, p=1.000e+00
+
+--- SA vs outros ---
+
+SA vs PSO
+Fitness: U=900.0, p=1.207e-11
+Eval:    U=165.0, p=3.453e-07
+
+SA vs NAHC
+Fitness: U=900.0, p=1.225e-11
+Eval:    U=900.0, p=2.627e-11
+
+SA vs MS_NAHC
+Fitness: U=900.0, p=1.042e-11
+Eval:    U=165.0, p=3.453e-07
+
+SA vs VNH
+Fitness: U=900.0, p=1.188e-11
+Eval:    U=0.0, p=2.629e-11
+
+SA vs MS_VNH
+Fitness: U=900.0, p=1.190e-11
+Eval:    U=165.0, p=3.453e-07
